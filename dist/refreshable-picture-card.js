@@ -44,11 +44,11 @@ class ResfeshablePictureCard extends HTMLElement {
         const css = `
           .center{
             display: block;
-            margin-top: auto;
-            margin-bottom: auto;
-            margin-left: auto;
-            margin-right: auto;
-            width: 90%;
+            margin-top: 0;
+            margin-bottom: 0;
+            margin-left: 0o;
+            margin-right: 0;
+            width: 100%;
           }
           .txt{
             color: var(--ha-card-header-color, --primary-text-color);
