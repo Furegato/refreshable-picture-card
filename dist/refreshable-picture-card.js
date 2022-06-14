@@ -46,7 +46,7 @@ class ResfeshablePictureCard extends HTMLElement {
             display: block;
             margin-top: 0;
             margin-bottom: 0;
-            margin-left: 0o;
+            margin-left: 0;
             margin-right: 0;
             width: 100%;
           }
