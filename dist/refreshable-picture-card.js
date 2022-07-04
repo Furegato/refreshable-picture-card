@@ -49,6 +49,8 @@ class ResfeshablePictureCard extends HTMLElement {
             margin-left: 0;
             margin-right: 0;
             width: 100%;
+            height: 100%;
+            overflow: hidden;
           }
           .txt{
             color: var(--ha-card-header-color, --primary-text-color);
